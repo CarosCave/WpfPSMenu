@@ -1,5 +1,7 @@
 bin/
 obj/
+/WpfPSMenu/bin/
+/WpfPSMenuobj/
 /packages/
 riderModule.iml
 /_ReSharper.Caches/
